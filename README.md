@@ -1,6 +1,6 @@
 # Ghilth Gbaguidi
 
-**Artificial Intelligence Student | Data Scientist Junior**
+**Data Scientist Junior**
 
 - **Email:** ghilthg@gmail.com
 - **Phone:** +229 99 16 51 03
@@ -18,8 +18,6 @@ I love solving problems using technology and am dedicated to sharing my knowledg
 ### Programming Languages:
 - Python
 - R
-- JavaScript
-- SQL
 
 ### Tools & Technologies:
 - TensorFlow
@@ -56,6 +54,7 @@ An autonomous robot built for waste sorting, placed third in the Tekbot Robotic 
 
 ### [Bible Bot](https://github.com/Ghilth/Bible_bot)
 A chatbot that answers Bible-related questions. [Try it here](https://ghilth-bible-bot-app-6lzncf.streamlit.app/).
+
 
 ## Certifications
 
