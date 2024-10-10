@@ -1,5 +1,4 @@
 
-
 **Data Scientist Junior**
 
 
@@ -24,38 +23,6 @@ I love solving problems using technology and am dedicated to sharing my knowledg
 - Data Scientist Junior at Oasys Tech Hub (Internship)
 
 
-
-## Skills
-
-### Programming Languages:
-- Python
-- R
-
-### Tools & Technologies:
-- TensorFlow
-- Scikit-learn
-- Langchain
-- YOLO
-- OpenCV
-- face-recognition
-
-### Analytical Skills:
-- Data Processing
-- Data Visualization
-- Statistical Modeling
-
-### Other Skills:
-- Project Management
-- Communication
-- Teamwork
-- Copywriting
-
-### Languages:
-- French
-- English
-- Fon
-- Mina
-
 ## Projects
 
 ### Alɔ Do mɛ tɔ
@@ -71,12 +38,37 @@ An autonomous robot built for waste sorting, placed third in the Tekbot Robotic 
 ### Bible Bot
 A chatbot that answers Bible-related questions. [Try it here](https://ghilth-bible-bot-app-6lzncf.streamlit.app/).
 
-
-### Bible Bot
-A chatbot that answers Bible-related questions. [Try it here](https://ghilth-bible-bot-app-6lzncf.streamlit.app/).
-
 ### Mini Photoshop
 A pretty web app that helps you to make some manipulations on images by using its filters.[Try it here](https://huggingface.co/spaces/Ghilth/mini-photoshop).
+
+
+
+
+## Skills
+
+### Programming Languages:
+- Python
+- R
+
+### Tools & Technologies:
+- TensorFlow
+- Scikit-learn
+- Langchain
+- YOLO
+- OpenCV
+- face-recognition
+
+### Other Skills:
+- Project Management
+- Communication
+- Teamwork
+- Copywriting
+
+### Languages:
+- French
+- English
+- Fon
+- Mina
 
 
 ## Certifications
