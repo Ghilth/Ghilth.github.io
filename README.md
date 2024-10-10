@@ -27,7 +27,7 @@ I love solving problems using technology and am dedicated to sharing my knowledg
 
 ### Alɔ Do mɛ tɔ
 A multifunctional voice assistant that extracts text from photos in French, English, or Spanish and translates it into audio in local languages.
-[Visit here](https://lablab.ai/event/benin-multimodal-ai-hackathon)
+[Visit here](https://lablab.ai/event/benin-multimodal-ai-hackathon/aida/al%C9%94-do-m%C9%9B-t%C9%94-assistant-vocal-multifonctionnel)
 
 
 ### Tekbot Robotic Challenge
