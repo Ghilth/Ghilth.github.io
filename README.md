@@ -2,10 +2,15 @@
 
 **Data Scientist Junior**
 
+(assets\IMG_0724.jpg)
+
 - **Email:** ghilthg@gmail.com
 - **Phone:** +229 99 16 51 03
 - **LinkedIn:** [Ghilth](https://www.linkedin.com/in/ghilth/)
 - **GitHub:** [Ghilth](https://github.com/Ghilth)
+
+## Education
+- Bachelor in Artificial Intelligence (2022 - Today)
 
 ## About Me
 
