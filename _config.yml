@@ -1,2 +1,5 @@
 title : Ghilth GBAGUIDI
+logo: assets/IMG_0724.jpg
+#description: text below image
+show_downloads: False
 theme : jekyll-theme-minimal
