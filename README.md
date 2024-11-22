@@ -24,6 +24,8 @@ I love solving problems using technology and am dedicated to sharing my knowledg
 
 ## Projects
 
+### Bio Analytica
+An application that helps you to detect plant diseases using segmentation and classification. 
 
 ### Mini Photoshop
 A pretty web app that helps you to make some manipulations on images by using its filters.[Try it here](https://huggingface.co/spaces/Ghilth/mini-photoshop).
