@@ -1,4 +1,4 @@
-
+ 
 **Data Scientist Junior**
 
 
@@ -32,7 +32,7 @@ A pretty web app that helps you to make some manipulations on images by using it
 
 
 ### Bible Bot
-A chatbot that answers Bible-related questions. [Try it here](https://ghilth-bible-bot-app-6lzncf.streamlit.app/).
+A chatbot that answers Bible-related questions. [Try it here](https://biblethomas.streamlit.app/).
 
 
 ### Alɔ Do mɛ tɔ
