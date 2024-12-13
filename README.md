@@ -29,32 +29,41 @@ I love solving problems using technology and am dedicated to sharing my knowledg
 VoixLibre is a web platform that we built (my team and I) during a hackathon on "gender and universities." It aims to help women students who are victims of gender-based violence to report their aggressions in a secure, anonymous, and supportive environment.
 
 
+
 ### Object Tracking with LLM
 This project aims to build a tool that can help you to find a specific object in any video . The user just have to put the name of what he looks for. Here is the github [link](https://github.com/Ghilth/Object_tracking_with_LLM)
+
 
 
 ### Bio Analytica
 An application that helps you to detect plant diseases using segmentation and classification. 
 
 
+
 ### Mini Photoshop
 A pretty web app that helps you to make some manipulations on images by using its filters.[Try it here](https://huggingface.co/spaces/Ghilth/mini-photoshop).
 
+
+
 ### Bible Bot
 A chatbot that answers Bible-related questions. [Try it here](https://biblethomas.streamlit.app/).
+
 
 
 ### Assitant Service Publics
 An assistant that helps you to use e-services if you live in Benin. We built it during Africa TechUp Tour Bootcamp.
 
 
+
 ### Bible Bot
 A chatbot that answers Bible-related questions. [Try it here](https://biblethomas.streamlit.app/).
+
 
 
 ### Alɔ Do mɛ tɔ
 A multifunctional voice assistant that extracts text from photos in French, English, or Spanish and translates it into audio in local languages.
 [Visit here](https://lablab.ai/event/benin-multimodal-ai-hackathon/aida/al%C9%94-do-m%C9%9B-t%C9%94-assistant-vocal-multifonctionnel)
+
 
 
 ### Tekbot Robotic Challenge
