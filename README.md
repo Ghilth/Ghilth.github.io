@@ -7,6 +7,7 @@
 - **LinkedIn:** [Ghilth](https://www.linkedin.com/in/ghilth/)
 - **GitHub:** [Ghilth](https://github.com/Ghilth)
 
+
 ## About Me
 
 I am a third-year Bachelor's student in Artificial Intelligence, with a passion for data science, machine learning, deep learning, and reinforcement learning. I have experience in designing predictive models, image recognition, text analysis, and working with frameworks like Scikit-learn, TensorFlow, and Langchain.
@@ -24,11 +25,27 @@ I love solving problems using technology and am dedicated to sharing my knowledg
 
 ## Projects
 
+### Voix Libre
+VoixLibre is a web platform that we built (my team and I) during a hackathon on "gender and universities." It aims to help women students who are victims of gender-based violence to report their aggressions in a secure, anonymous, and supportive environment.
+
+
+### Object Tracking with LLM
+This project aims to build a tool that can help you to find a specific object in any video . The user just have to put the name of what he looks for. Here is the github [link](https://github.com/Ghilth/Object_tracking_with_LLM)
+
+
 ### Bio Analytica
 An application that helps you to detect plant diseases using segmentation and classification. 
 
+
 ### Mini Photoshop
 A pretty web app that helps you to make some manipulations on images by using its filters.[Try it here](https://huggingface.co/spaces/Ghilth/mini-photoshop).
+
+### Bible Bot
+A chatbot that answers Bible-related questions. [Try it here](https://biblethomas.streamlit.app/).
+
+
+### Assitant Service Publics
+An assistant that helps you to use e-services if you live in Benin. We built it during Africa TechUp Tour Bootcamp.
 
 
 ### Bible Bot
